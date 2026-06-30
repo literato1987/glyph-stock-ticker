@@ -8,11 +8,11 @@ Built with the [Glyph Matrix Developer Kit](https://github.com/Nothing-Developer
 
 ## Preview
 
-| TSLA (default) | BTC (long-press) | NVDA (long-press) |
-|---|---|---|
-| ![TSLA preview](docs/preview-tsla.png) | ![BTC preview](docs/preview-btc.png) | ![NVDA preview](docs/preview-nvda.png) |
+<p align="center">
+  <img src="docs/preview-github.png" alt="TSLA, BTC, and NVDA on the Glyph Matrix" width="640">
+</p>
 
-Previews use the [official Phone (3) LED allocation](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit/blob/main/image/23111_25111_LED_allocation.svg) (621 LEDs, not a full 25×25 square).
+Long-press cycles symbol: **TSLA** → **BTC** → **NVDA**. Previews use the [official Phone (3) LED allocation](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit/blob/main/image/23111_25111_LED_allocation.svg) (621 LEDs). BTC example uses compact `87k` — full integer BTC prices are wider on the matrix.
 
 ## Features
 
