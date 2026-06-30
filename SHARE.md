@@ -28,6 +28,8 @@ Not financial advice — hobby project. Feedback welcome, especially if BTC pric
 
 Built with the official [Glyph Matrix Developer Kit](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit).
 
+**Published on nothing.community:** https://nothing.community/d/40994-community-glyph-matrix-toys-collection (post #291100)
+
 ---
 
 ## GitHub repo setup (one-time)
