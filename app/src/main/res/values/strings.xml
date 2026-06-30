@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Glyph Stock Ticker</string>
+    <string name="toy_name_tesla">Stock Ticker</string>
+    <string name="toy_summary_tesla">Live stock prices on the Glyph Matrix. Long-press to switch TSLA, BTC, NVDA.</string>
+    <string name="activate_toy">Activate Glyph Toy</string>
+    <string name="loading_price">Fetching price…</string>
+    <string name="price_error">Could not load price</string>
+    <string name="instructions">After installing, tap Activate Glyph Toy and drag Stock Ticker into your active toys. Then flip the phone or use Glyph Touch to see prices.</string>
+    <string name="long_press_hint">Long-press the Glyph Button to switch symbol (TSLA → BTC → NVDA).</string>
+</resources>
