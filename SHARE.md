@@ -17,8 +17,8 @@ I built a Glyph Toy for the Nothing Phone (3) that shows live prices on the back
 
 No API key — uses Yahoo Finance chart endpoint. Install APK or build from source.
 
-**GitHub:** `YOUR_REPO_URL_HERE`  
-**APK (v1.4.0):** `YOUR_REPO_URL_HERE/releases/v1.4.0/glyph-stock-ticker-v1.4.0.apk`
+**GitHub:** https://github.com/literato1987/glyph-stock-ticker  
+**APK (v1.4.0):** https://github.com/literato1987/glyph-stock-ticker/releases/download/v1.4.0/glyph-stock-ticker-v1.4.0.apk
 
 **Requires:** Phone (3), Nothing OS with Glyph Toy support, internet.
 
