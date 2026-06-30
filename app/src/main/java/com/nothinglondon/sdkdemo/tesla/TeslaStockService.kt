@@ -109,8 +109,15 @@ class TeslaStockService : GlyphMatrixService("Tesla-Stock") {
         changeLine: String,
     ) {
         val symbolObject = GlyphMatrixObject.Builder()
-            .setText(symbolLine)
-            .setPosition(MatrixCircle.centerX(symbolLine.length), MatrixCircle.LAYER_TOP_Y)
+            .setImageSource(
+                MatrixPixelFont.toDrawableBitmap(
+                    applicationContext,
+                    symbolLine,
+                    MatrixCircle.LAYER_TOP_Y,
+                ),
+            )
+            .setScale(100)
+            .setPosition(0, 0)
             .build()
 
         val priceObject = if (needsPixelFont(priceLine)) {
