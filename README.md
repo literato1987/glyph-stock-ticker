@@ -9,7 +9,7 @@ Built with the [Glyph Matrix Developer Kit](https://github.com/Nothing-Developer
 ## Preview
 
 <p align="center">
-  <img src="docs/preview-github.png" alt="TSLA, BTC, and NVDA on the Glyph Matrix" width="640">
+  <img src="docs/preview-github.png?v=2" alt="TSLA, BTC, and NVDA on the Glyph Matrix" width="640">
 </p>
 
 Long-press cycles symbol: **TSLA** → **BTC** → **NVDA**.
